@@ -1,0 +1,26 @@
+html {
+  scroll-behavior: smooth;
+}
+
+/* cambie el estilo de las letras del cuerpo(body)*/
+body {
+  font-family: sans-serif;
+}
+
+h1 {
+  color: navy;
+}
+/*definir el tamañp de la anchura(widht) y de la altura(height)*/
+img,
+video {
+  max-width: 100%;
+  height: auto;
+}
+
+iframe {
+  width: 80%;
+  height: 400px;
+}
+p {
+  color: blueviolet;
+}
